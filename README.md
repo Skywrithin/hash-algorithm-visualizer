@@ -46,6 +46,8 @@
 
 - kaleb.franken7@gmail.com
 
-### Special Thanks
+### Resources
 
-  [https://www.youtube.com/watch?v=CXa0f4-dWi4](https://www.youtube.com/watch?v=CXa0f4-dWi4)
+  - [https://www.youtube.com/watch?v=CXa0f4-dWi4](https://www.youtube.com/watch?v=CXa0f4-dWi4)
+
+  - [https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/#:~:text=SHA%2D256%2C%20for%20example%2C,respective%20digest%20size%20in%20bits.](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/#:~:text=SHA%2D256%2C%20for%20example%2C,respective%20digest%20size%20in%20bits.)

@@ -45,7 +45,7 @@ const [initialHashMatrix, setInitialHashMatrix] = useState({})
 
 //END MATRICIES INITIALIZERS//---------------------->
 
-//Round Constant Data 
+//Round Constant Data
   useEffect(() => {
     setRoundConstantArray(allConstants.slice(8, 72).map((object)=> (object.binary_value)))
   }, [allConstants])
