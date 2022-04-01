@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# HASH-ALGORITHM-VISUALIZER `alpha` 0.0.1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deployment
 
-## Available Scripts
+  First, access the database [here](link)
 
-In the project directory, you can run:
+  In the project directory, run:
 
-### `npm start`
+## `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  Starts the development server.
+  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ## `npm run build`
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  Create a build file ready for deployment
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+      Removes this tool and copies build dependencies, configuration files
+      and scripts into the app directory. If you do this, you can’t go back!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Whats next?
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- hash-algorithom-visualizer will receive updates every monday, at noon MST until ALPHA 1.0 is ready
+- Upon release of Hash-Visualizer_v[ALPHA:1.0] updates will be the first of every month with patches in-between
 
-## Learn More
+## COMING SOON
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- BETTER Documentation
+- More algorithoms
+- New data structure
+- Custom Hooks
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Known issues
 
-### Code Splitting
+- Schedule expansion sometimes doesn't load and skips the step
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### User reports
 
-### Analyzing the Bundle Size
+- '...the hash bitmap is a string-literal but it should be an integer that is operated on via bitwise operators...' '...rendered from decimal to binary if the state is decimal. -anon'
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Contact
 
-### Making a Progressive Web App
+- kaleb.franken7@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Special Thanks
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  [https://www.youtube.com/watch?v=CXa0f4-dWi4](https://www.youtube.com/watch?v=CXa0f4-dWi4)
